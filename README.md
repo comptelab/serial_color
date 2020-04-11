@@ -1,6 +1,4 @@
 # Build-up of serial dependence in color working memory 
-## João Barbosa & Albert Compte*
-
 
 
 This repo contains the (preprocessed) experimental data and code for the results reported in the main figures of [Barbosa & Compte](https://www.biorxiv.org/content/10.1101/503185v3) 
